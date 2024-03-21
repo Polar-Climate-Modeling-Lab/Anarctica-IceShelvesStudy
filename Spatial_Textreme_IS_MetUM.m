@@ -12,7 +12,7 @@
 % Antarctic boundaries, grounding line, and masks from InSAR
 % NEEDS antbound toolbox:
 % https://in.mathworks.com/matlabcentral/fileexchange/60246-antarctic-boundaries-grounding-line-and-masks-from-insar?focused=7177816&s_tid=gn_loc_drop&tab=example
-% TEST
+
 % NEEDS Antarctic Mapping Tools:
 % https://in.mathworks.com/matlabcentral/fileexchange/47638-antarctic-mapping-tools
 
